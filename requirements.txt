@@ -1,0 +1,7 @@
+# dependencies
+lxml
+
+# testing
+tox
+pytest
+flake8

@@ -1,0 +1,2 @@
+Actualmente MAI.py esta en desarrollo y sujeto a multitud de fallos.
+
